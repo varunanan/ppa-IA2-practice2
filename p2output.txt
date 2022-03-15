@@ -1,1 +1,9 @@
-
+gcc -g p2original.c
+./a.out
+enter a side length: 
+6
+enter a side length: 
+5
+enter a side length: 
+7
+The triange is scalene for lengths 6,5 and 7
